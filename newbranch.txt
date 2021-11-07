@@ -1,1 +1,2 @@
 this is the new branch
+i am doing comit here after doing merging
